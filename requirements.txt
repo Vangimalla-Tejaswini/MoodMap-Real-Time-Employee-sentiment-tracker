@@ -1,0 +1,8 @@
+opencv-python
+tensorflow
+numpy
+pandas
+streamlit
+matplotlib
+plotly
+mediapipe
